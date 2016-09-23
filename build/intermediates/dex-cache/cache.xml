@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/stephen/Documents/301/lab3/lonelyTwitter/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="9ef975554ee8842bfb8974e794977be0821f6c37">
+        <dex dex="/Users/stephen/Documents/301/lab3/lonelyTwitter/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_bc380004766483ea476e4724e58e3c04faf99448.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stephen/Documents/301/lab3/lonelyTwitter/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e7d652962a8ef2b4a93364f21e414f02aefd3295">
+        <dex dex="/Users/stephen/Documents/301/lab3/lonelyTwitter/app/build/intermediates/pre-dexed/debug/instant-run_19436ba35afe535993daf752e715588232997fa0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stephen/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/stephen/Documents/301/lab3/lonelyTwitter/app/build/intermediates/pre-dexed/debug/gson-2.7_43ea7f116ae7db109a597ac5dccea8d32b1d62e4.jar" />
+    </item>
+
+</items>

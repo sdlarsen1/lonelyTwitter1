@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="18"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="50360964054988"
+    token="8916183460855973321"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="279" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="61" />
+    <task
+        name="verifier"
+        duration="4" />
+
+    <artifact
+        location="/Users/stephen/Documents/301/lab3/lonelyTwitter/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="50360964054988"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/stephen/Documents/301/lab3/lonelyTwitter/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
