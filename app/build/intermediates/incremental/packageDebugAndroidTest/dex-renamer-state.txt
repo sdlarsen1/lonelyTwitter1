@@ -1,0 +1,4 @@
+#Thu Sep 29 18:15:33 MDT 2016
+base.0=/Users/stephen/Documents/301/lab3/lonelyTwitter1/app/build/intermediates/transforms/dex/androidTest/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/stephen/Documents/301/lab3/lonelyTwitter1/app/build/intermediates/transforms/dex/androidTest/debug/folders/1000/1f/main/classes.dex

@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/Users/stephen/Documents/301/lab3/lonelyTwitter/app/build/intermediates/res/merged/debug/layout/list_item.xml",
-        "source": "/Users/stephen/Documents/301/lab3/lonelyTwitter/app/src/main/res/layout/list_item.xml"
+        "merged": "/Users/stephen/Documents/301/lab3/lonelyTwitter1/app/build/intermediates/res/merged/debug/layout/list_item.xml",
+        "source": "/Users/stephen/Documents/301/lab3/lonelyTwitter1/app/src/main/res/layout/list_item.xml"
     },
     {
-        "merged": "/Users/stephen/Documents/301/lab3/lonelyTwitter/app/build/intermediates/res/merged/debug/layout/main.xml",
-        "source": "/Users/stephen/Documents/301/lab3/lonelyTwitter/app/src/main/res/layout/main.xml"
+        "merged": "/Users/stephen/Documents/301/lab3/lonelyTwitter1/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/stephen/Documents/301/lab3/lonelyTwitter1/app/src/main/res/layout/main.xml"
     }
 ]

@@ -22,6 +22,15 @@
     <item
         is-multidex="false"
         jar="/Users/stephen/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/stephen/Documents/301/lab3/lonelyTwitter1/app/build/intermediates/pre-dexed/debug/gson-2.7_43ea7f116ae7db109a597ac5dccea8d32b1d62e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stephen/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
         jumboMode="true"
         optimize="true"
         revision="22.0.1"
