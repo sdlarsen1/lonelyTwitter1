@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Thu Sep 29 18:16:05 MDT 2016
+#Sat Oct 01 15:32:49 MDT 2016
 2.base=/Users/stephen/Documents/301/lab3/lonelyTwitter1/app/build/intermediates/res/resources-debug.ap_
 5.file=/Users/stephen/Documents/301/lab3/lonelyTwitter1/app/build/intermediates/res/resources-debug.ap_/res/layout/main.xml
 5.set=ANDROID_RESOURCE

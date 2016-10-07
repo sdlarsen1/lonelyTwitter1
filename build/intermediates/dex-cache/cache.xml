@@ -3,6 +3,33 @@
 
     <item
         is-multidex="false"
+        jar="/Users/stephen/Documents/301/lab3/lonelyTwitter1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="19c5adfd4ba1c96760b0f6e664923189691c49f9">
+        <dex dex="/Users/stephen/Documents/301/lab3/lonelyTwitter1/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_569c9cfb27451908ef894f593b050b8bc046958f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stephen/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/stephen/Documents/301/lab3/lonelyTwitter1/app/build/intermediates/pre-dexed/debug/gson-2.7_43ea7f116ae7db109a597ac5dccea8d32b1d62e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stephen/Documents/301/lab3/lonelyTwitter1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="4b8d6f5f0d73b588cd52e5ff00916b8c89c73dc4">
+        <dex dex="/Users/stephen/Documents/301/lab3/lonelyTwitter1/app/build/intermediates/pre-dexed/debug/instant-run_4c958515506dca320b93f8c2b4cd695125920957.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/stephen/Documents/301/lab3/lonelyTwitter/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
@@ -18,15 +45,6 @@
         revision="22.0.1"
         sha1="e7d652962a8ef2b4a93364f21e414f02aefd3295">
         <dex dex="/Users/stephen/Documents/301/lab3/lonelyTwitter/app/build/intermediates/pre-dexed/debug/instant-run_19436ba35afe535993daf752e715588232997fa0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/stephen/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="22.0.1"
-        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
-        <dex dex="/Users/stephen/Documents/301/lab3/lonelyTwitter1/app/build/intermediates/pre-dexed/debug/gson-2.7_43ea7f116ae7db109a597ac5dccea8d32b1d62e4.jar" />
     </item>
     <item
         is-multidex="false"

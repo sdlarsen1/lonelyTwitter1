@@ -4,29 +4,29 @@
     density="xxhdpi"
     format="8"
     plugin-version="2.2.0"
-    timestamp="74254185325313"
+    timestamp="166141998865370"
     token="-7359617115464739092"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="258" />
+        duration="101" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="63" />
+        duration="22" />
     <task
         name="verifier"
-        duration="28" />
+        duration="2" />
 
     <artifact
         location="/Users/stephen/Documents/301/lab3/lonelyTwitter1/app/build/outputs/apk/app-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="74254185325313"
+        timestamp="166141998865370"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/Users/stephen/Documents/301/lab3/lonelyTwitter1/app/build/outputs/apk/app-debug.apk"
